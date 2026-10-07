@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Sankalp
 
-<!--
-**sankalpss2006-web/sankalpss2006-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Artificial Intelligence & Machine Learning Engineering Student**
 
-Here are some ideas to get you started:
+💻 I am learning programming, web development and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+- Python
+- HTML & CSS
+- JavaScript
+- Data Structures
+- Machine Learning
+- Git & GitHub
+
+### 🛠️ Skills
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+### 📌 Projects
+- **TeachTrack 2.0** - Smart Academic Assessment and Learning Analysis Platform
+- More projects coming soon...
+
+### 🎯 Goals
+- Improve my programming skills
+- Build real-world projects
+- Learn AI & Machine Learning
+- Contribute to open-source projects
+
+### 📫 Connect With Me
+- LinkedIn: 
+- Email: sankalpss2006@gmail.com
